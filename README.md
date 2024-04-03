@@ -15,7 +15,7 @@ This portfolio website serves as a professional showcase for my work. It provide
 3. Run the project using a live server extension or plugin in your code editor.
 
 ## See live
-priyasawani-portfolio.netlify.app
+https://priyasawani-portfolio.netlify.app/
 
 ## Contact
 rapr.priya31@gmail.com
